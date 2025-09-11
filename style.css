@@ -1,0 +1,43 @@
+h1{
+    font-family: 'IMPACT';
+    background-color: rgb(0, 0, 0);
+    font-size: 50px;
+    color: white;
+}
+
+body{
+    background-color: #9A7A70;
+}
+
+div.thumbnail{
+    text-align: center;
+}
+
+video{
+    width: 100%;
+    height: auto;
+    border-radius: 2%;
+}
+.anita{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+div.content{
+    font-family: 'Franklin Gothic';
+    font-size: 100%;
+}
+
+.content{
+    background-color: #000000;
+    color: white;
+    border-radius: 1%;
+}
+@media screen {
+    
+}
